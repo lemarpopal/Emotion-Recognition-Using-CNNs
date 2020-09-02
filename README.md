@@ -5,6 +5,9 @@ The Jupyter Notebooks directory contains the scripts where I collect and clean t
 
 The Emotion Recognition directory contains the code that allows the user to run the trained models. When the script is run it will open two windows. One window is the lecture video that the student is supposed to watch. The other window is the student's webcam with emotion detector. Settings can be changed at the top of the main function. To add a video, add it to the base directory with the source code. 
 
+### Links to Datasets
+Here is a [link](https://cpslo-my.sharepoint.com/:f:/g/personal/lepopal_calpoly_edu/EpRJo2-dC3RAjCx84Foj2tEBLUGVv-cAOG6Zh6xFmtpONQ?e=3dvIjX) to a OneDrive folder that contains the datasets I used. The password to access is rWV59$up-NrRMJ8N  
+
 Requirements:
 - Tensorflow  
 - Keras  
